@@ -1,8 +1,8 @@
-- 👋 Oie,eu sou @pamelacristinayz
-- 👀 eu estou interessada em programação  
-- 🌱 Eu estou aprendendo a programar em Python
-- 💞️ estou colaborando em aprender sobre as programações 
-- 📫 meu contato é 00001097319301sp@al.educacao.sp.gov.br
+- 👋 Oie,eu sou pamelacristinayz
+- Eu estou aprendendo a programar em Python
+
+- 📫 para entrar em contato comigo use:
+-  pamcristina1516@gmail.com
 
 
 ![](https://media1.tenor.com/m/MCBkr6dWLkUAAAAd/corinthians-rodrigo-garro.gif)
