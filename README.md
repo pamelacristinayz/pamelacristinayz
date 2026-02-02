@@ -1,4 +1,4 @@
-- 👋 Oie,eu sou pamelacristinayz
+- 👋 Oie, eu sou pamelacristinayz
 - Eu estou aprendendo a programar em Python
 
 - 📫 para entrar em contato comigo use:
