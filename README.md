@@ -1,6 +1,6 @@
 - 👋 Oie,eu sou @pamelacristinayz
 - 👀 eu estou interessada em programação  
-- 🌱 Eu estou aprendendo usar o javascript 
+- 🌱 Eu estou aprendendo a programar em Python
 - 💞️ estou colaborando em aprender sobre as programações 
 - 📫 meu contato é 00001097319301sp@al.educacao.sp.gov.br
 - 😄 ela/dela
