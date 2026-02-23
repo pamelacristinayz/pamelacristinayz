@@ -1,7 +1,6 @@
 - 👋 Oie, eu sou pamelacristinayz
 - Eu estou aprendendo a programar em Python.
 - Estou cursando ensino medio integrado ao tecnico de DS.
-- 
 - 📫 para entrar em contato comigo use:
 -  pamcristina1516@gmail.com
 
